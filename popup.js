@@ -3,15 +3,24 @@
         'active': true,
         'lastFocusedWindow': true
     }, function (tabs) {
-        var itemsData = [{
-            label: 'Laravel PHP',
-            content: `⭐Hello, Client ⭐\r\nI have rich experiences in Laravel, Php Core, MVC, and Angular programming.\r\nAs you can see my reviews, my before clients never frustrated with my work, so that I can satisfy your all good ideas wonderfully.\r\n\r\nPlease check my previous Laravel and Laravel RestAPI Project.	\r\n\t http://www.myfcpower.com\r\n\t http://mts.lass.technology/\r\n\t http://scs.gatenetwork.it/\r\n\t https://ozzy.vip\r\n\t https://fax.beslisapp.nl/\r\n\t https://removebounce.com\r\n\r\nIF YOU CHOOSE ME, I WILL DO MY BEST.\r\n\r\nSincerely, I hope we can discuss in more detail about your project.\r\nWaiting for your reply.\r\nRegards.\r\nMingqi Zhao\r\n`,
-            style:'btn-primary',
-        }, {
+        var itemsData = [
+        {
             label: 'Django, Flask, Python',
-            content: `⭐⭐⭐Hi, there!⭐⭐⭐\r\nI am MingQi, Senior full-stack Developer, who recommended and got the reputation of "Top 1% Developer" by this community.\r\n\r\nExpertise in Python, Django, Flask and please check my previous Django and Django RestAPI Project.\r\n\r\n\t https://www.hhrooftopbar.com\r\n\t http://clublink.com\r\n\t http://cogmento.com\r\n\t http://www.easyclosets.com/\r\n\t https://www.realbuzz.com/\r\n\r\nPlease contact me to discuss furthermore.\r\nI will implement your all ideas wonderfully with high quality, affordable and work until SATISFACTION.\r\nONCE YOU HIRE ME, I WILL DO MY BEST.\r\nRegards.\r\nMingqi Zhao\r\n`,
-            style:'btn-secondary',
+            content: `⭐⭐⭐Hi, there!⭐⭐⭐\r\n\r\nAs a senior Django and React developer, who recommended the reputation of "Top 1% Developer", I read the description and got understood correctly.\r\nStrong knowledge and rich experiences in Python, Django, Flask as well as React, Redux, Apollo, Graph QL.\r\n\r\nPlease check my previous Django and React projects.\r\n\r\n     http://cogmento.com\r\n     http://clublink.com\r\n     http://tracks-qa.catchmedia\r\n     https://www.shermanstravel.com\r\n     https://www.onepeloton.com\r\n     http://www.easyclosets.com/\r\n         ...............................\r\n\r\nLooking forward to discussing more details over chat.\r\nI'll complete your all ideas successfully with high quality and work until SATISFACTION.\r\n\r\nONCE YOU HIRE ME, I WILL DO MY BEST.\r\nRegards.\r\n\r\nMingqi Zhao.\r\n`,
+            style:'btn-success',
         }, {
+            label: 'Angular',
+            content: `⭐⭐⭐Hello, there!⭐⭐⭐\r\nAfter understanding the description, I've got confident to be able to complete the job.\r\n\r\nExpertise and rich experiences in not only Angular 4 +, Angular.js but also Express/Nodejs, SQL / NoSQL, Firebase / Heroku, Docker, and etc...\r\n\r\nThese are my previous works.\r\n\thttp://otrtwizard.com\r\n\thttps://www.icurae.com\r\n\thttps://www.thefactorydoor.com\r\n\thttps://app.enhancetherapy.com\r\n\thttps://floward.com\r\n\thttps://www.nocknock.com/\r\n...........................................\r\nI'll give you satisfy your all ideas wonderfully in budget and timeframe.\r\nWaiting to discuss more details over chat.\r\n\r\nRegards.\r\nMingqi Zhao\r\n`,
+            style:'btn-warning',
+        }, {
+            label: 'Ionic, Flutter',
+            content: `⭐⭐⭐Hello.⭐⭐⭐\r\nI have the expertise and rich experiences in Ionic v3+ and Flutter as a senior web developer.\r\n\r\nAfter clearly understood, I've got very interested and confidence in this project.\r\n\r\n\thttps://play.google.com/store/apps/details?id=com.ionicbucket.firenews&amp;hl=en\r\n\thttps://ionicbucket-newsapp.firebaseapp.com/#/login\r\n\thttps://github.com/OliveIT/firenews-admin\r\n\thttps://play.google.com/store/apps/details?id=com.verbosetech.cookfu_ionic\r\n\thttps://play.google.com/store/apps/details?id=com.verbosetech.cookfu_store_ionic\r\n\r\nI'll satisfy your all ideas completely in budget and timeframe.\r\nPlease check my reviews which left from my previous clients.\r\n\r\nLooking forward to hearing back from you soon.\r\nRegards.\r\nMingqi Zhao\r\n`,
+            style:'btn-info',
+        }, {
+            label: 'Laravel PHP',
+            content: `⭐⭐⭐Hello, Client!⭐⭐⭐\r\n\r\nAs a senior full-stack developer, I have rich experiences in Laravel, Php Core, MVC, and Angular.\r\n\r\nAfter understanding the description, I got confident that I can complete the project successfully.\r\n\r\nAs you can see my reviews, my before clients have never been kept frustrated by my work.\r\n\r\nPlease check my previous works.\r\n    http://www.myfcpower.com\r\n    http://mts.lass.technology/\r\n    http://scs.gatenetwork.it/\r\n    https://ozzy.vip\r\n    https://fax.beslisapp.nl/\r\n    https://removebounce.com\r\n\r\nI'll give you satisfaction with high-quality code and correct deadline.\r\nWaiting to discuss more detail over chat.\r\n\r\nRegards.\r\nMingqi Zhao\r\n`,
+            style:'btn-primary',
+        },{
             label: 'Common 1',
             content: `⭐⭐⭐Hello, client.⭐⭐⭐\r\nI am a Senior Mobile developer with 10+ years of software development experiences.\r\nAfter reading your job description carefully, I'm sure I am the right person for this project.\r\n\r\nExpertise in .....\r\n\r\nAs you can see my reviews, Clients have never been frustrated with my work, and they always gave me "⭐⭐⭐⭐⭐" marks without hesitating.\r\n\r\nHIRE ME, AND YOU WILL GET AN EXCELLENT RESULT ON TIME.\r\nHoping to discuss in more details over private chat.\r\nRegards.\r\nMingqi Zhao\r\n`,
             style:'btn-success',
@@ -19,14 +28,6 @@
             label: 'React Native',
             content: `Hello, client.\r\nI am a Senior Mobile/Web developer with 10+ years of software development career.\r\nAfter reading your job description carefully, I am very proper developer, who is crazy with willing to work with you.\r\nExpertise in MERN, React JS as Front-End with 3 + years of experiences.\r\nFront End\r\n\r\n\t https://www.lyoness.com/eu\r\n\t https://www.goodhire.com/ \r\n\t http://www.yeticycles.com/\r\n\t http://tracks-qa.catchmedia\r\n\t https://www.shermanstravel.com\r\n\t https://www.onepeloton.com\r\nMERN\r\n\t https://www.stanza.co/\r\n\t https://sothebyshomes.com/\r\n\r\nAs you can see my reviews, Clients have never been frustrated with my work, and they always gave me "⭐⭐⭐⭐⭐" marks without hesitating.\r\n\r\nONCE YOU GIVE ME A CHANCE TO WORK WITH YOU, I WILL DO MY BEST.\r\n\r\nI will never charge your money without any result and guarantee my work with high-quality and scalable and \r\nI hope we can discuss in more detail over chat.\r\nRegards.\r\nMingqi Zhao\r\n`,
             style:'btn-danger',
-        }, {
-            label: 'Angular',
-            content: `⭐⭐⭐Hello.⭐⭐⭐\r\nWith very interested and confidence in this project, I can satisfy your all ideas wonderfully as you need in budget and timeframe.\r\n\r\nExpertise and rich Experiences in angular, angular.js, CouchDB and Touch DB, Firebase, Heroku, Docker(Ngnix).\r\n\r\n\t http://otrtwizard.com\r\n\t https://www.icurae.com\r\n\t https://www.thefactorydoor.com\r\n\t https://app.enhancetherapy.com\r\n\t https://floward.com\r\n\t https://www.nocknock.com/\r\n\r\nONCE YOU CHOOSE ME, I WILL DO MY BEST.\r\nWaiting for your response.\r\nRegards.\r\nMingqi Zhao\r\n`,
-            style:'btn-warning',
-        }, {
-            label: 'Ionic, React Native, Flutter',
-            content: `⭐⭐⭐Hello.⭐⭐⭐\r\nWith very interested and confidence in this project, I can satisfy your all ideas wonderfully as you need in budget and timeframe.\r\n\r\nExpertise and rich Experiences in Ionic v1~v5, React Native, Flutter.\r\n\r\n\t https://play.google.com/store/apps/details?id=com.ionicbucket.firenews&hl=en\r\n\t https://ionicbucket-newsapp.firebaseapp.com/#/login\r\n\t https://github.com/OliveIT/firenews-admin\r\n\t https://play.google.com/store/apps/details?id=com.verbosetech.cookfu_ionic\r\n\t https://play.google.com/store/apps/details?id=com.verbosetech.cookfu_store_ionic\r\n\r\nONCE YOU CHOOSE ME, I WILL DO MY BEST.\r\nWaiting for your response.\r\nBest Regards.\r\nMingqi Zhao\r\n`,
-            style:'btn-info',
         }, {
             label: 'WordPress',
             content: `⭐⭐⭐Hi there⭐⭐⭐ \r\nI'm a famous WordPress developer, who built more than 99 products for my clients.\r\nAlso, I have made several products to sell on an online market and those are best sellers on the market.\r\n\r\n\t http://www.soaptheme.net/wordpress/travelo\r\n\t http://www.soaptheme.net/wordpress/citytours\r\n\r\nMy clients have never been frustrated with my work and I have kept in my mind it.\r\nI can assist you with my skills and can fulfill your requirements on time.\r\nLook forward to hearing back from you.\r\nThanks.\r\n`,
